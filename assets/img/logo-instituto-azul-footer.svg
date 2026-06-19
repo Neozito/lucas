@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="82" viewBox="0 0 320 82" role="img" aria-label="Instituto Azul Educacional">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a63b7"/><stop offset="1" stop-color="#062655"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb126"/><stop offset="1" stop-color="#f28a00"/></linearGradient>
+  </defs>
+  <g transform="translate(6 4)">
+    <path d="M26 14 L50 3 L74 14 L50 25 Z" fill="#8bb8ec"/>
+    <path d="M50 7 L70 16 L50 25 L30 16 Z" fill="#2c73c6"/>
+    <path d="M70 16 v18" stroke="#d8e8ff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="70" cy="38" r="3" fill="#f6a200"/>
+    <path d="M21 33c0-14 12-24 29-24s29 10 29 24c0 20-13 34-29 34S21 53 21 33Z" fill="url(#b)"/>
+    <circle cx="38" cy="35" r="13" fill="#fff"/><circle cx="62" cy="35" r="13" fill="#fff"/>
+    <circle cx="38" cy="35" r="6" fill="#082758"/><circle cx="62" cy="35" r="6" fill="#082758"/>
+    <circle cx="40" cy="32" r="2" fill="#fff"/><circle cx="64" cy="32" r="2" fill="#fff"/>
+    <path d="M50 43l-7-3h14z" fill="url(#g)"/>
+    <path d="M28 59l-8 10M72 59l8 10" stroke="#f6a200" stroke-width="5" stroke-linecap="round"/>
+    <path d="M32 28c-8-6-13-9-20-5 7 0 9 9 9 9" fill="#0b5b9e"/>
+    <path d="M68 28c8-6 13-9 20-5-7 0-9 9-9 9" fill="#0b5b9e"/>
+  </g>
+  <g transform="translate(104 20)">
+    <text x="0" y="18" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#ffffff" letter-spacing="1.1">INSTITUTO AZUL</text>
+    <text x="0" y="43" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="2.7">EDUCACIONAL</text>
+  </g>
+</svg>
